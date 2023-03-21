@@ -1,5 +1,7 @@
 // Email: me@lyshark.com
 // PowerBy: ZXPortMap,LyShark
+// https://blog.csdn.net/tony_whu/article/details/13020987
+// https://www.lyshark.com
 
 #define _CRT_SECURE_NO_WARNINGS
 #define _WINSOCK_DEPRECATED_NO_WARNINGS

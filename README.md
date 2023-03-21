@@ -92,4 +92,4 @@ Shell> TcpForward.exe TwoForwardClient --ServerAddress 127.0.0.1 --ServerPort 99
 
 ### 项目地址
 
-https://github.com/lyshark/FlowForward
+https://github.com/lyshark/TcpForward

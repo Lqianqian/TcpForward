@@ -44,6 +44,10 @@
 | ServerPort | 指定服务器Port端口号 |
 | ConnectAddress | 指定连接到对端IP地址 |
 | ConnectPort | 指定对端连接Port端口号 |
+| ShowAdapters | 输出当前网卡列表 |
+| Monitor | 监控网卡流量 |
+| Compile | 设置监控规则 |
+| Type | ether/ip/tcp/udp/icmp/http/arp |
 
 总之，选择适当的转发模式取决于应用场景和需求。正向隧道转发模式用于访问远程私有网络资源，反向纯流量隧道模式用于提供公网服务，而双向隧道转发模式则可以同时支持这两种用途。
 
